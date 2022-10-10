@@ -99,11 +99,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bae'),
+    component: ComponentCreator('/docs', '034'),
     routes: [
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/docs/bankless-movement',
+        component: ComponentCreator('/docs/bankless-movement', '6ee'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/banklessdao',
+        component: ComponentCreator('/docs/banklessdao', '2a5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/governance-templates',
+        component: ComponentCreator('/docs/category/governance-templates', '325'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -114,8 +126,56 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/code-of-conduct',
+        component: ComponentCreator('/docs/code-of-conduct', '65d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/dao-cycles',
+        component: ComponentCreator('/docs/dao-cycles', 'fa0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/dao-governance',
+        component: ComponentCreator('/docs/dao-governance', '25c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/dao-org-units',
+        component: ComponentCreator('/docs/dao-org-units', 'ab2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/funding',
+        component: ComponentCreator('/docs/funding', '025'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/membership',
+        component: ComponentCreator('/docs/membership', '4fa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/mission-values',
+        component: ComponentCreator('/docs/mission-values', '5a2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/preamble',
+        component: ComponentCreator('/docs/preamble', '083'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

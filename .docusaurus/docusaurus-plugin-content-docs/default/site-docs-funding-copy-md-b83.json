@@ -1,0 +1,27 @@
+{
+  "unversionedId": "funding copy",
+  "id": "funding copy",
+  "title": "DAO Funding",
+  "description": "Funds are released from this treasury in one of three ways: Seasonal budgets, Mid-season grants, and through monthly community-wide Coordinape rounds.",
+  "source": "@site/docs/funding copy.md",
+  "sourceDirName": ".",
+  "slug": "/funding copy",
+  "permalink": "/docs/funding copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/funding copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DAO Governance",
+    "permalink": "/docs/dao-governance"
+  },
+  "next": {
+    "title": "DAO Funding",
+    "permalink": "/docs/funding"
+  }
+}

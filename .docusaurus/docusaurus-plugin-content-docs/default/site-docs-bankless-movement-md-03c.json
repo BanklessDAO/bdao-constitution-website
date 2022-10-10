@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bankless-movement",
+  "id": "bankless-movement",
+  "title": "The Bankless Movement",
+  "description": "Bankless is a movement for pioneers seeking liberation from the tyranny of the traditional financial system. Going Bankless means adopting decentralized, permissionless, and censorship-resistant technology. Through these means, we will achieve financial self-sovereignty, security, and prosperity.",
+  "source": "@site/docs/bankless-movement.md",
+  "sourceDirName": ".",
+  "slug": "/bankless-movement",
+  "permalink": "/docs/bankless-movement",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bankless-movement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "BanklessDAO",
+    "permalink": "/docs/banklessdao"
+  }
+}

@@ -8,11 +8,61 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "preamble",
           "docs": [
+            {
+              "id": "bankless-movement",
+              "path": "/docs/bankless-movement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "banklessdao",
+              "path": "/docs/banklessdao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "code-of-conduct",
+              "path": "/docs/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dao-cycles",
+              "path": "/docs/dao-cycles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dao-governance",
+              "path": "/docs/dao-governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dao-org-units",
+              "path": "/docs/dao-org-units",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "funding",
+              "path": "/docs/funding",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "membership",
+              "path": "/docs/membership",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mission-values",
+              "path": "/docs/mission-values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "preamble",
+              "path": "/docs/preamble",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,8 +106,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "/category/governance-templates",
+              "path": "/docs/category/governance-templates",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -70,8 +120,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/preamble",
+                "label": "preamble"
               }
             }
           }

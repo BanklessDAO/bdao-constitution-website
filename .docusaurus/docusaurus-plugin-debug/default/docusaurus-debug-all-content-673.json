@@ -20,10 +20,199 @@
           "contentPathLocalized": "/Users/conderj/bdao-constitution-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "bankless-movement",
+              "id": "bankless-movement",
+              "title": "The Bankless Movement",
+              "description": "Bankless is a movement for pioneers seeking liberation from the tyranny of the traditional financial system. Going Bankless means adopting decentralized, permissionless, and censorship-resistant technology. Through these means, we will achieve financial self-sovereignty, security, and prosperity.",
+              "source": "@site/docs/bankless-movement.md",
+              "sourceDirName": ".",
+              "slug": "/bankless-movement",
+              "permalink": "/docs/bankless-movement",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bankless-movement.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "BanklessDAO",
+                "permalink": "/docs/banklessdao"
+              }
+            },
+            {
+              "unversionedId": "banklessdao",
+              "id": "banklessdao",
+              "title": "BanklessDAO",
+              "description": "The BanklessDAO is a decentralized autonomous organization that acts as a steward of the Bankless Movement, progressing the world towards a future of greater freedom. BanklessDAO is a community of passionate Web3 thought-leaders who aim to educate new users, produce written and audio media, build DAO tooling, provide consulting services, develop Web3 scholarship, and create a social and creative home base for anyone in Web3. We’re so much more than a social DAO—we’re a shipping, building, and innovating DAO. See: The Genesis Proposal.",
+              "source": "@site/docs/banklessdao.md",
+              "sourceDirName": ".",
+              "slug": "/banklessdao",
+              "permalink": "/docs/banklessdao",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/banklessdao.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Bankless Movement",
+                "permalink": "/docs/bankless-movement"
+              },
+              "next": {
+                "title": "Mission and Values",
+                "permalink": "/docs/mission-values"
+              }
+            },
+            {
+              "unversionedId": "code-of-conduct",
+              "id": "code-of-conduct",
+              "title": "Code of Conduct",
+              "description": "Every member of the BanklessDAO community is expected and is responsible to treat others with respect and dignity. We are a globally distributed community representing numerous cultures, languages, and time zones. It's our highest priority to be the most welcoming and inviting onboarding experience for Web3. To this end, we encourage any conflict to first be broached between involved persons. If this does not resolve the matter we encourage team champions or guild coordinators to help resolve the conflict. If this still doesn't resolve the matter, parties are encouraged to approach the Ombuds office to help resolve the dispute. Our unity and internal cohesion are essential prerequisites to accomplishing our mission.",
+              "source": "@site/docs/code-of-conduct.md",
+              "sourceDirName": ".",
+              "slug": "/code-of-conduct",
+              "permalink": "/docs/code-of-conduct",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/code-of-conduct.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DAO Funding",
+                "permalink": "/docs/funding"
+              },
+              "next": {
+                "title": "Governance Templates",
+                "permalink": "/docs/category/governance-templates"
+              }
+            },
+            {
+              "unversionedId": "dao-cycles",
+              "id": "dao-cycles",
+              "title": "DAO Cycles",
+              "description": "In order to create opportunities for alignment and transparency, the DAO operates in nested inspect-and-adapt loops. Starting with the largest and moving to the smallest, these are the following DAO-wide alignment and accountability loops.",
+              "source": "@site/docs/dao-cycles.md",
+              "sourceDirName": ".",
+              "slug": "/dao-cycles",
+              "permalink": "/docs/dao-cycles",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dao-cycles.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DAO Org Units",
+                "permalink": "/docs/dao-org-units"
+              },
+              "next": {
+                "title": "DAO Governance",
+                "permalink": "/docs/dao-governance"
+              }
+            },
+            {
+              "unversionedId": "dao-governance",
+              "id": "dao-governance",
+              "title": "DAO Governance",
+              "description": "At BanklessDAO, decisions regarding governance, treasury, projects, and proposals are made through a democratic process. BANK holders ratify decisions through off-chain votes held on the voting software, Snapshot. Any BANK holder can vote in a Snapshot. The more tokens a user has, the more voting power they possess.",
+              "source": "@site/docs/dao-governance.md",
+              "sourceDirName": ".",
+              "slug": "/dao-governance",
+              "permalink": "/docs/dao-governance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dao-governance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DAO Cycles",
+                "permalink": "/docs/dao-cycles"
+              },
+              "next": {
+                "title": "DAO Funding",
+                "permalink": "/docs/funding"
+              }
+            },
+            {
+              "unversionedId": "dao-org-units",
+              "id": "dao-org-units",
+              "title": "DAO Org Units",
+              "description": "The DAO is a multicellular network of organizational units united by our shared mission, vision, and values. These units are self-managed, possess their own internal multi-signature wallets, and often develop their own internal governance processes. Three of these organizational units deserve special attention given their prominence in the current org structure. These are Guilds, Projects, and the Grants Committee. See the DAOs composition on this Sobol map.",
+              "source": "@site/docs/dao-org-units.md",
+              "sourceDirName": ".",
+              "slug": "/dao-org-units",
+              "permalink": "/docs/dao-org-units",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dao-org-units.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Membership",
+                "permalink": "/docs/membership"
+              },
+              "next": {
+                "title": "DAO Cycles",
+                "permalink": "/docs/dao-cycles"
+              }
+            },
+            {
+              "unversionedId": "funding",
+              "id": "funding",
+              "title": "DAO Funding",
+              "description": "Funds are released from this treasury in one of three ways: Seasonal budgets, Mid-season grants, and through monthly community-wide Coordinape rounds.",
+              "source": "@site/docs/funding.md",
+              "sourceDirName": ".",
+              "slug": "/funding",
+              "permalink": "/docs/funding",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/funding.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DAO Governance",
+                "permalink": "/docs/dao-governance"
+              },
+              "next": {
+                "title": "Code of Conduct",
+                "permalink": "/docs/code-of-conduct"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Introduction",
+              "description": "BanklessDAO was founded by David Hoffman and Ryan Sean Adams on May 4th, 2021, when they airdropped BANK tokens to each Bankless premium subscriber. Following the true ethos of decentralization, they stepped back and let the DAO take shape. While their media company, Bankless LLC, continues to operate as its own media node, the Bankless brand is propagated through the DAO and its sub-DAOs. Now, the Bankless ecosystem as a whole creates user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -32,14 +221,95 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Preamble",
+                "permalink": "/docs/preamble"
+              },
+              "next": {
+                "title": "The Bankless Movement",
+                "permalink": "/docs/bankless-movement"
+              }
+            },
+            {
+              "unversionedId": "membership",
+              "id": "membership",
+              "title": "Membership",
+              "description": "Membership Levels",
+              "source": "@site/docs/membership.md",
+              "sourceDirName": ".",
+              "slug": "/membership",
+              "permalink": "/docs/membership",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/membership.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mission and Values",
+                "permalink": "/docs/mission-values"
+              },
+              "next": {
+                "title": "DAO Org Units",
+                "permalink": "/docs/dao-org-units"
+              }
+            },
+            {
+              "unversionedId": "mission-values",
+              "id": "mission-values",
+              "title": "Mission and Values",
+              "description": "Mission",
+              "source": "@site/docs/mission-values.md",
+              "sourceDirName": ".",
+              "slug": "/mission-values",
+              "permalink": "/docs/mission-values",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mission-values.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BanklessDAO",
+                "permalink": "/docs/banklessdao"
+              },
+              "next": {
+                "title": "Membership",
+                "permalink": "/docs/membership"
+              }
+            },
+            {
+              "unversionedId": "preamble",
+              "id": "preamble",
+              "title": "Preamble",
+              "description": "This document represents BanklessDAO’s values, mission, structure, processes, and governance according to the best of our community’s ability to capture it. It is the codification of our community operating system and is meant to serve, rather than constrain its members.",
+              "source": "@site/docs/preamble.md",
+              "sourceDirName": ".",
+              "slug": "/preamble",
+              "permalink": "/docs/preamble",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/preamble.md",
+              "tags": [],
+              "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Introduction",
+                "permalink": "/docs/intro"
               }
             },
             {
@@ -142,8 +412,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Governance Templates",
+                "permalink": "/docs/category/governance-templates"
               },
               "next": {
                 "title": "Create a Document",
@@ -260,11 +530,51 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
+                "id": "preamble"
+              },
+              {
+                "type": "doc",
                 "id": "intro"
               },
               {
+                "type": "doc",
+                "id": "bankless-movement"
+              },
+              {
+                "type": "doc",
+                "id": "banklessdao"
+              },
+              {
+                "type": "doc",
+                "id": "mission-values"
+              },
+              {
+                "type": "doc",
+                "id": "membership"
+              },
+              {
+                "type": "doc",
+                "id": "dao-org-units"
+              },
+              {
+                "type": "doc",
+                "id": "dao-cycles"
+              },
+              {
+                "type": "doc",
+                "id": "dao-governance"
+              },
+              {
+                "type": "doc",
+                "id": "funding"
+              },
+              {
+                "type": "doc",
+                "id": "code-of-conduct"
+              },
+              {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Governance Templates",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -296,8 +606,8 @@
                 "link": {
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "slug": "/category/governance-templates",
+                  "permalink": "/docs/category/governance-templates"
                 }
               },
               {

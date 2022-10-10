@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dao-governance",
+  "id": "dao-governance",
+  "title": "DAO Governance",
+  "description": "At BanklessDAO, decisions regarding governance, treasury, projects, and proposals are made through a democratic process. BANK holders ratify decisions through off-chain votes held on the voting software, Snapshot. Any BANK holder can vote in a Snapshot. The more tokens a user has, the more voting power they possess.",
+  "source": "@site/docs/dao-governance.md",
+  "sourceDirName": ".",
+  "slug": "/dao-governance",
+  "permalink": "/docs/dao-governance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dao-governance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DAO Cycles",
+    "permalink": "/docs/dao-cycles"
+  },
+  "next": {
+    "title": "DAO Funding",
+    "permalink": "/docs/funding"
+  }
+}

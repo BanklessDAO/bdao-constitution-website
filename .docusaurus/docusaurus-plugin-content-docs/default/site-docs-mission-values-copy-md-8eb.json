@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mission-values copy",
+  "id": "mission-values copy",
+  "title": "Mission and Values",
+  "description": "Mission",
+  "source": "@site/docs/mission-values copy.md",
+  "sourceDirName": ".",
+  "slug": "/mission-values copy",
+  "permalink": "/docs/mission-values copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mission-values copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BanklessDAO",
+    "permalink": "/docs/banklessdao"
+  },
+  "next": {
+    "title": "Mission and Values",
+    "permalink": "/docs/mission-values"
+  }
+}

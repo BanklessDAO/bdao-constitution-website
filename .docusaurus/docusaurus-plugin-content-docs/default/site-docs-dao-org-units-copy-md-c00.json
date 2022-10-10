@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dao-org-units copy",
+  "id": "dao-org-units copy",
+  "title": "DAO Org Units",
+  "description": "The DAO is a multicellular network of organizational units united by our shared mission, vision, and values. These units are self-managed, possess their own internal multi-signature wallets, and often develop their own internal governance processes. Three of these organizational units deserve special attention given their prominence in the current org structure. These are Guilds, Projects, and the Grants Committee. See the DAOs composition on this Sobol map.",
+  "source": "@site/docs/dao-org-units copy.md",
+  "sourceDirName": ".",
+  "slug": "/dao-org-units copy",
+  "permalink": "/docs/dao-org-units copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dao-org-units copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Membership",
+    "permalink": "/docs/membership"
+  },
+  "next": {
+    "title": "DAO Org Units",
+    "permalink": "/docs/dao-org-units"
+  }
+}

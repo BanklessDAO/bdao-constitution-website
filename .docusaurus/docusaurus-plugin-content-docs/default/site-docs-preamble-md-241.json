@@ -1,0 +1,23 @@
+{
+  "unversionedId": "preamble",
+  "id": "preamble",
+  "title": "Preamble",
+  "description": "This document represents BanklessDAO’s values, mission, structure, processes, and governance according to the best of our community’s ability to capture it. It is the codification of our community operating system and is meant to serve, rather than constrain its members.",
+  "source": "@site/docs/preamble.md",
+  "sourceDirName": ".",
+  "slug": "/preamble",
+  "permalink": "/docs/preamble",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/preamble.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  }
+}
